@@ -1,3 +1,5 @@
+//Crear un programa que pida ados personas sus respectivos nombres y apellidos, dar 2 puntajes a estos, y para finalizar envie en output los datos
+
 #include<iostream>
 
 
